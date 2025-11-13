@@ -339,7 +339,8 @@ We love contributions! DevFlow is built by developers, for developers.
 
 ```bash
 # Fork and clone the repo
-git clone https://github.com/yourusername/devflow.git
+git clone
+https://github.com/abusayeed21/DevFlow.git
 cd devflow
 
 # Install dependencies
@@ -442,7 +443,7 @@ If DevFlow helped you, consider giving us a star. It helps the project grow!
 
 ---
 
-**Made with ❤️ by developers, for developers**
+**Made with ❤️ by Md Abu Sayeed, for developers**
 
 [Website](https://devflow.dev) • [Documentation](https://docs.devflow.dev) • [Blog](https://blog.devflow.dev)
 
